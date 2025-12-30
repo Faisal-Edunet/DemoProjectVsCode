@@ -1,1 +1,2 @@
 this is a sample of github using vscode
+new line added
